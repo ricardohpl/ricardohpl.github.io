@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio-ricardo/static/css/main.e6c13ad2.css",
-    "main.js": "/portfolio-ricardo/static/js/main.70eac977.js",
-    "index.html": "/portfolio-ricardo/index.html",
-    "main.e6c13ad2.css.map": "/portfolio-ricardo/static/css/main.e6c13ad2.css.map",
-    "main.70eac977.js.map": "/portfolio-ricardo/static/js/main.70eac977.js.map"
+    "main.css": "/ricardohpl.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/ricardohpl.github.io/static/js/main.35ec06e1.js",
+    "index.html": "/ricardohpl.github.io/index.html",
+    "main.e6c13ad2.css.map": "/ricardohpl.github.io/static/css/main.e6c13ad2.css.map",
+    "main.35ec06e1.js.map": "/ricardohpl.github.io/static/js/main.35ec06e1.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.70eac977.js"
+    "static/js/main.35ec06e1.js"
   ]
 }
