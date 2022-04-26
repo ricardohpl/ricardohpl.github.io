@@ -1,5 +1,4 @@
 # ricardohpl.github.io
-Portfólio Ricardo Pereira
 
 Repo para meu portfolio no github pages
 
